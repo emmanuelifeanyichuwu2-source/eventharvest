@@ -1,0 +1,2 @@
+# Replace these with public pages you are permitted to access.
+https://example.com/events/example
